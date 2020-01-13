@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ef07a97-f0da-4604-9803-ff9f9bc8deba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../case-study-modle2/.idea/case-study-modle2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classmodels/.idea/classmodels.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-codegym-bootstrap/.idea/demo-codegym-bootstrap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-shop-manager/.idea/demo-shop-manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo.php/.idea/demo.php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login.php/.idea/login.php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mvc-crud-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/UserController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/database/DBconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/user/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/user/UserDB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/user/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/user/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/user/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ungdungquanlikhachhang/.idea/ungdungquanlikhachhang.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1W8kva3YrZsx80IJgUBhZYOyJ1W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/view/user" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ef07a97-f0da-4604-9803-ff9f9bc8deba" name="Default Changelist" comment="" />
+      <created>1578538840177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578538840177</updated>
+      <workItem from="1578538842292" duration="3666000" />
+      <workItem from="1578546932314" duration="12336000" />
+      <workItem from="1578576779170" duration="724000" />
+      <workItem from="1578617712694" duration="658000" />
+      <workItem from="1578625220636" duration="31000" />
+      <workItem from="1578626362194" duration="14000" />
+      <workItem from="1578628753520" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578541165581">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1578541165581" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578621808814">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1578621808814" />
+    <state x="487" y="211" width="449" height="373" key="NewPhpClassDialog" timestamp="1578539522076">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="487" y="211" width="449" height="373" key="NewPhpClassDialog/67.27.1299.741@67.27.1299.741" timestamp="1578539522076" />
+    <state x="512" y="323" width="399" height="149" key="NewPhpFileDialog" timestamp="1578558465408">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="512" y="323" width="399" height="149" key="NewPhpFileDialog/67.27.1299.741@67.27.1299.741" timestamp="1578558465408" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1578559197385">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1578559197385" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1578576779747">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1578576779747" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1578559556016">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1578559556016" />
+  </component>
+</project>
